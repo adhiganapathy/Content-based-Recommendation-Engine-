@@ -30,7 +30,5 @@ This project recommends movies similar to your favorite picks based on their plo
 - Requests (for OMDb API)  
 - Pickle (for saving preprocessed data)  
 
----
 
-## 📂 File Structure
 
